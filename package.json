@@ -1,0 +1,16 @@
+{
+    "name": "bee-bot",
+    "version": "1.0.0",
+    "description": "Activate order bee",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "walcutt",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^13.8.1",
+        "dotenv": "^16.0.1",
+        "fs": "^0.0.1-security"
+    }
+}
